@@ -24,6 +24,9 @@ description: "Showing off the work of Andrew Marsee! I was a Mechanical Engineer
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  R Shiny Apps:
+    - How Does Rest Affect NBA Teams: "https://amarsee.shinyapps.io/nba-stats-shiny-dashboard/"
+    - Opioid Prescription Dashboard: "https://amarsee.shinyapps.io/opioid-prescriptions/"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

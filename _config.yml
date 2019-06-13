@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Andrew Marsee Portfolio
+title: Andrew Marsee
 
 # Short description of your site
 description: "Showing off the work of Andrew Marsee! I was a Mechanical Engineer in a past life but now dedicated to Data Science."
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Andrew Marsee
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

@@ -23,7 +23,7 @@ The first thing I ever saw in Brazil was Belem's Val de Cans International Airpo
 ### 7. São Paulo Congonhas
 São Paulo Congonhas is a big hub for domestic connections in Brazil. I had about a 45 minute layover here on the way to Curitiba. This airport is decent. It's not too big so it's easy to get around for connections. It's not super nice or super dirty. It's adequate. This airport loses points because it's not readily apparent that many flights board via bus from a lower level. We walked all over the main floor looking for the gate and couldn't find it. We finally found it and made the connecting flight with 20 minutes to spare.
 <figure>
-<img src="https://lh3.googleusercontent.com/Vuw-kvIRJoN41OSbgIv_sY8XqMIdsFOy_FOVme09l29YNWeCIigulAkkbA13a7oPkDX67Khr7Kf2f8zcp07sj-3G8mA-NFaah9KEb7ZoEjeMJ5M-NBhO8sl4vf33PvEKLqgaba1NeJbJvZUMah0m7BdaRMKb64GWeRh2chgEfDH5_nYRsfZCDXl0Hfx5bqNqZAx4G0dox1ffH659lstfCO7Gm2_V-iRt-iCWsqygt4-YECYQv69HaA0F4K7ODOdza66Op4_jVHxxy7tIG5YAwq2f7tZNVbil21CMYymXKwiKnHzStj5DxEOBpznxCNMhoPRZfj90SKG87T07VDHCY-oCQY9g3zFAv_zXi3_0k5w9gUsrFDSmr35fMtlT8q7xYWJjfIC_RDQDwvxPWyz4wQoRdvjJnOrTcIphBDYyWN87URFmK6P-eQ7LunlQuI0VKhUNuKpdrR9Nf35VrrsaBGvyByYz8FaoDWiubHpVXo6pMUoMx3fTENjt0kxnyR0n_amWQUQsCg0yyWoxI5XPyv-fGIFZf5WPkvIcLkI4cBu1q3E_lGTb9swx11JW8tUakd2szkeva5NG9MPh2q2CROXQQwfa9XQ5wHshNpWJSfzng5hEz2u-WhUwHcQv65q4Wek7pJbjJn_dGiSo-I-T43x97NxW_XA=w1134-h1494-no" width="350" height="440" title="Bus in Congonhas" alt="Bus to Board Plane"> 
+<img src="https://i.imgur.com/zwVzB67.jpg" width="350" height="440" title="Bus in Congonhas" alt="Bus to Board Plane"> 
    <figcaption>
  Taking a bus to the plane
   </figcaption>
@@ -32,7 +32,7 @@ São Paulo Congonhas is a big hub for domestic connections in Brazil. I had abou
 <br>
 
 <figure>
-<img src="https://lh3.googleusercontent.com/kSblYpA3nlR7VZQxwqLaVtUEtq_B3Zx_4XHnyQUzIpPPj_7djxicTBNwfeTJHjn72Jl7eE6aapObdUZgtL3uth7ZMGBcaHcuUh_LAq9ZFL5DeQrkcuKL28G8u2Rr5YyWIN3n-o_ac_bBG_ffboq1HjSTP3xKpOqJms52nOdKC4Jeyu6rqnHhqHEB1YNmW2ctgIqpmQ7BrFYxXBftg4pIgTFDHGyYLS45C8l6735KPsE2nJu9fqzFAsnrhkL36VBmrWVfJWbzL7DwZ-f160aDCgKqSOeIKGDx1UIGH7qC1OEMBH2csBoKM7p38JmqIqim7aVx13F-tgVq9jNYYIm7gDpsuZSp2fs8vCjwAtXKnRbsQrZgxAlAPYNSWv7uBsTJrD7i4Iejva9I8R7RiHpGROquwivjg__zz8n2BCSgrP_E86yeQdep-m0x5_5n-tf9xrKDgstZyhj7YGXfNnXOHPfXcrqywd6tQOoPbDCMbY9jw1AY1ScO5jsjKUyavrNdA6PdLDKPEZOmW_NhsNUsi0VXWUgPfYJ-Nv9NXuGHirMSvZ-hezT9mOVRUqrEPnCBQIXG8hur8_OwfUBcHqsV7XgqDxJ_5rJYUGPs8zcuBrmtNqTZH64so7t203iLYYExQNpL4EOrnGQd8jrRjZWVoyGZSEvuiKY=w1242-h1494-no" width="350" height="440" title="Ramp in Congonhas" alt="Ramp to Board Plane"> 
+<img src="https://i.imgur.com/d5fIOmn.jpg" width="350" height="440" title="Ramp in Congonhas" alt="Ramp to Board Plane"> 
    <figcaption>
  Using a ramp to board the aircraft
   </figcaption>
@@ -51,7 +51,7 @@ Afonso Pena International Airport just outside of Curitiba is a pretty nice airp
 I enjoyed Brigadeiro Lysias Rodrigues Airport in Palmas. It doesn't have much to offer in the way of amenities, but it offers a lot in the way of convenience. It's a tiny airport. But that makes for a simple travel experience. We arrived at the airport about 40 minutes before the flight and got to the gate about 30 minutes before the flight. That should tell you everything you need to know. Certainly no need to arrive 2 hours before a flight here.
 
 <figure>
-<img src="https://lh3.googleusercontent.com/ergkMZF0zVE5Y15NgYcB84wd7jZ6f4may0CMSTVwq84qnmzZP3y-sMN9bGDipM5YViV0xtW2qsgm4AHPvtLwSsVeSYyUQ6Ru1I7icNq8RlHgwoPXZ7Wh97Zt0FzojDdvdqfkmZqnwz8NaF_JuMMJL19HylyTn4FYb8BAPDBihyCATan8f9nFGhq3xXjXLXglG1IgxYBvgCLmdm4yHhCLujf5wS3CUyECxieuLqYkg9ehcb7tBFN6iSGnmHVi9a3bYMHtMbK8OQlFvHocNunRlx2_Z8HRdlcz0m2mh8zQDAB1BqosqGPVITdLMfl91pc-Pt4XKY7DS5clybW-aXDJ3mlFUtoTsOZcByoCbMHttUZA4CUUBCLb9d5xLsS_OhuUGZffALgh3q6KZihAoLZbL7YOkEU50gDsyRJ7igPq06T3VYf857wmRzaWEznifz__skGHPZWGvso3mAjlUMzj4edqsVhC2PuNHtzOpjNSD8lpFYHbzMiZvx93WefeWtfpp4ELielx3VReX4rc62fUHfRnB018Ta2v5Gcyx-wB-un4F_oFhOlK2N1HmJk7bgEtRn_ZDgkjR3fe56qeb8p0B3Rde15aKCDDXwx3TH9iVKQct4j-7s0PsWkK4fc06k0T_viq2wbGn6rfSkJLKcUtmon14OXUV-g=w1592-h1494-no" width="400" height="400" title="Palmas Airport" alt="All of Palmas Airport"> 
+<img src="https://i.imgur.com/ul8Ga5Y.jpg" width="400" height="400" title="Palmas Airport" alt="All of Palmas Airport"> 
    <figcaption>
  Palmas Airport, yep that's all of it
   </figcaption>

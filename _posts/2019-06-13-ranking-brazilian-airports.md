@@ -14,13 +14,13 @@ Let's get into the rankings. I'll start from worst and finish with the best.
 
 ## The rankings
 
-### Cuiabá
+### 9. Cuiabá
 Cuiabá's Marechal Rondon International Airport did not impress me during the layover I had there. It's a very small airport, much like the others on the list, but this airport had drawbacks that the others did not. For one, it was crowded and there was little air circulation. It was small, but people were packed in there. It seemed old and a little dirty too. It could use a renovation. It did have a couple restuarants if you want a bite to eat (like some pão de queijo), however I did not try these restaurants so I can't rate them.
 
-### Belem
+### 8. Belem
 The first thing I ever saw in Brazil was Belem's Val de Cans International Airport. It did not leave a great impression. All of us on the flight had to wait well over an hour to receive our luggage. It was a standard 3x3 configuration plane with probably around 180 passengers and we were the only flight arriving at the time. Not to mention that the baggage claim area was hot too. Not a great first impression. Once I got my luggage and made it through security, the airport was pretty bland. A bit like Cuiabá, but maybe a little cleaner and bigger. I barely made my connection and was on my way for the rest of the trip.
 
-### São Paulo Congonhas
+### 7. São Paulo Congonhas
 São Paulo Congonhas is a big hub for domestic connections in Brazil. I had about a 45 minute layover here on the way to Curitiba. This airport is decent. It's not too big so it's easy to get around for connections. It's not super nice or super dirty. It's adequate. This airport loses points because it's not readily apparent that many flights board via bus from a lower level. We walked all over the main floor looking for the gate and couldn't find it. We finally found it and made the connecting flight with 20 minutes to spare.
 <figure>
 <img src="https://lh3.googleusercontent.com/Vuw-kvIRJoN41OSbgIv_sY8XqMIdsFOy_FOVme09l29YNWeCIigulAkkbA13a7oPkDX67Khr7Kf2f8zcp07sj-3G8mA-NFaah9KEb7ZoEjeMJ5M-NBhO8sl4vf33PvEKLqgaba1NeJbJvZUMah0m7BdaRMKb64GWeRh2chgEfDH5_nYRsfZCDXl0Hfx5bqNqZAx4G0dox1ffH659lstfCO7Gm2_V-iRt-iCWsqygt4-YECYQv69HaA0F4K7ODOdza66Op4_jVHxxy7tIG5YAwq2f7tZNVbil21CMYymXKwiKnHzStj5DxEOBpznxCNMhoPRZfj90SKG87T07VDHCY-oCQY9g3zFAv_zXi3_0k5w9gUsrFDSmr35fMtlT8q7xYWJjfIC_RDQDwvxPWyz4wQoRdvjJnOrTcIphBDYyWN87URFmK6P-eQ7LunlQuI0VKhUNuKpdrR9Nf35VrrsaBGvyByYz8FaoDWiubHpVXo6pMUoMx3fTENjt0kxnyR0n_amWQUQsCg0yyWoxI5XPyv-fGIFZf5WPkvIcLkI4cBu1q3E_lGTb9swx11JW8tUakd2szkeva5NG9MPh2q2CROXQQwfa9XQ5wHshNpWJSfzng5hEz2u-WhUwHcQv65q4Wek7pJbjJn_dGiSo-I-T43x97NxW_XA=w1134-h1494-no" width="350" height="440" title="Bus in Congonhas" alt="Bus to Board Plane"> 
@@ -36,16 +36,16 @@ São Paulo Congonhas is a big hub for domestic connections in Brazil. I had abou
   </figcaption>
 </figure>
 
-### Viracopos
+### 6. Viracopos
 Viracopos is Azul's hub outside of São Paulo. Nearly all of the flights through here are with Azul (my favorite domestic airline in Brazil, but that's a topic for another blog). This airport is fine if you have a short layover. However, the time I was there I had a 3 hour layover before heading to Fort Lauderdale later that night. This was a painful layover because the international terminal is very small. My flight was the only international flight at the time. And there was very little to do. There was a tiny cafe serving coffee and sandwiches. There was also a duty free store. And that was it. I suspect this will get better in the future as Azul increases traffic, but as of Fall 2018 it was lacking.
 
-### São Paulo Guarulhos
+### 5. São Paulo Guarulhos
 Now it gets more difficult to separate the remaining airports. I think São Paulo Guarulhos deserves this spot. The international terminal is super nice here. It looks like it was renovated recently and has nice restaurants and restrooms. This airport loses points for transportation between terminals. There is a lot of walking involved when going from international to domestic or vice versa. It took me over 30 minutes of walking at a brisk pace to get between the two. Also the domestic terminal could use an upgrade. It's nowhere near as nice as Terminal 3. But overall it's a pretty good airport.
 
-### Curitiba
+### 4. Curitiba
 Afonso Pena International Airport just outside of Curitiba is a pretty nice airport. It's not too crowded, has plenty of outlets, and good amenities. They provide only a single one hour WiFi session. That's the only drawback I can think of. Otherwise, security was a breeze
 
-### Palmas
+### 3. Palmas
 I enjoyed Brigadeiro Lysias Rodrigues Airport in Palmas. It doesn't have much to offer in the way of amenities, but it offers a lot in the way of convenience. It's a tiny airport. But that makes for a simple travel experience. We arrived at the airport about 40 minutes before the flight and got to the gate about 30 minutes before the flight. That should tell you everything you need to know. Certainly no need to arrive 2 hours before a flight here.
 
 <figure>
@@ -55,11 +55,11 @@ I enjoyed Brigadeiro Lysias Rodrigues Airport in Palmas. It doesn't have much to
   </figcaption>
 </figure>
 
-### Goiânia
+### 2. Goiânia
 Also a very small airport. I believe there are 8 gates here. So it's another airport where you don't need to arrive 2 hours early. This airport ranks higher than Palmas because it is more modern. It has been renovated pretty recently and includes a food court with several options outside of security. This is a nice spot to hang out before going through security because it won't take longer than 5 minutes to get through security and another 2 minutes to get to your gate. It's a quaint airport.
 
 
-### Brasília
+### 1. Brasília
 Brasília. Brazil's capital. Presidente Juscelino Kubitschek International Airport is a beautiful airport. At least the domestic terminal is. That's the only part I saw, so I can't comment on the international terminal. But the domestic terminal is bright and airy and has modernist architecture like the rest of the city. It fits perfectly in Brasília. A minor complaint is that walking between gates can take a while. Some additional moving walkways would be nice. But otherwise it was great. This has been the best airport I've seen in Brazil. It's nicer than any airport I've been to in America. There are plenty of outlets and good WiFi. There are plenty of shops and restaurants too. And comfortable chairs in addition to the already mentioned perks. It's perfect for a layover or arriving a little early for a flight out.
 
 

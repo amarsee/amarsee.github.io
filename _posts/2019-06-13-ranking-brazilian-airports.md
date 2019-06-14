@@ -28,9 +28,13 @@ São Paulo Congonhas is a big hub for domestic connections in Brazil. I had abou
  Taking a bus to the plane
   </figcaption>
 </figure>
-
+<br><br>
+<figure>
 <img src="https://lh3.googleusercontent.com/kSblYpA3nlR7VZQxwqLaVtUEtq_B3Zx_4XHnyQUzIpPPj_7djxicTBNwfeTJHjn72Jl7eE6aapObdUZgtL3uth7ZMGBcaHcuUh_LAq9ZFL5DeQrkcuKL28G8u2Rr5YyWIN3n-o_ac_bBG_ffboq1HjSTP3xKpOqJms52nOdKC4Jeyu6rqnHhqHEB1YNmW2ctgIqpmQ7BrFYxXBftg4pIgTFDHGyYLS45C8l6735KPsE2nJu9fqzFAsnrhkL36VBmrWVfJWbzL7DwZ-f160aDCgKqSOeIKGDx1UIGH7qC1OEMBH2csBoKM7p38JmqIqim7aVx13F-tgVq9jNYYIm7gDpsuZSp2fs8vCjwAtXKnRbsQrZgxAlAPYNSWv7uBsTJrD7i4Iejva9I8R7RiHpGROquwivjg__zz8n2BCSgrP_E86yeQdep-m0x5_5n-tf9xrKDgstZyhj7YGXfNnXOHPfXcrqywd6tQOoPbDCMbY9jw1AY1ScO5jsjKUyavrNdA6PdLDKPEZOmW_NhsNUsi0VXWUgPfYJ-Nv9NXuGHirMSvZ-hezT9mOVRUqrEPnCBQIXG8hur8_OwfUBcHqsV7XgqDxJ_5rJYUGPs8zcuBrmtNqTZH64so7t203iLYYExQNpL4EOrnGQd8jrRjZWVoyGZSEvuiKY=w1242-h1494-no" width="350" height="440" title="Ramp in Congonhas" alt="Ramp to Board Plane"> 
-
+   <figcaption>
+ Using a ramp to board the aircraft
+  </figcaption>
+</figure>
 
 
 

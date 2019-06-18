@@ -45,7 +45,7 @@ survey question to gain insight into feedback provided by educators across the s
 * Coordinate the receipt of approximately 15 datasets from outside vendors and preparing
 reports with R Markdown to be released to the press
 
-**Nashville Software School** Nashville, TN	`August 2018-Present`
+**Nashville Software School** Nashville, TN	`August 2018-May 2019`
 
 9 month, intensive program designed to provide students with programming and analytical skills
 need to excel in a data science role:

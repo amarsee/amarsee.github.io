@@ -14,13 +14,13 @@ Let's get into the rankings. I'll start from worst and finish with the best.
 
 ## The rankings
 
-### 9. Cuiabá
+### 10. Cuiabá
 Cuiabá's Marechal Rondon International Airport did not impress me during the layover I had there. It's a very small airport, much like the others on the list, but this airport had drawbacks that the others did not. For one, it was crowded and there was little air circulation. It was small, but people were packed in there. It seemed old and a little dirty too. It could use a renovation. It did have a couple restuarants if you want a bite to eat (like some pão de queijo), however I did not try these restaurants so I can't rate them.
 
-### 8. Belem
+### 9. Belem
 The first thing I ever saw in Brazil was Belem's Val de Cans International Airport. It did not leave a great impression. All of us on the flight had to wait well over an hour to receive our luggage. It was a standard 3x3 configuration plane with probably around 180 passengers and we were the only flight arriving at the time. Not to mention that the baggage claim area was hot too. Not a great first impression. Once I got my luggage and made it through security, the airport was pretty bland. A bit like Cuiabá, but maybe a little cleaner and bigger. I barely made my connection and was on my way for the rest of the trip.
 
-### 7. São Paulo Congonhas
+### 8. São Paulo Congonhas
 São Paulo Congonhas is a big hub for domestic connections in Brazil. I had about a 45 minute layover here on the way to Curitiba. This airport is decent. It's not too big so it's easy to get around for connections. It's not super nice or super dirty. It's adequate. This airport loses points because it's not readily apparent that many flights board via bus from a lower level. We walked all over the main floor looking for the gate and couldn't find it. We finally found it and made the connecting flight with 20 minutes to spare.
 <figure>
 <img src="https://i.imgur.com/zwVzB67.jpg" width="350" height="440" title="Bus in Congonhas" alt="Bus to Board Plane"> 
@@ -38,8 +38,11 @@ São Paulo Congonhas is a big hub for domestic connections in Brazil. I had abou
   </figcaption>
 </figure>
 
-### 6. Viracopos
+### 7. Viracopos
 Viracopos is Azul's hub outside of São Paulo. Nearly all of the flights through here are with Azul (my favorite domestic airline in Brazil, but that's a topic for another blog). This airport is fine if you have a short layover. However, the time I was there I had a 3 hour layover before heading to Fort Lauderdale later that night. This was a painful layover because the international terminal is very small. My flight was the only international flight at the time. And there was very little to do. There was a tiny cafe serving coffee and sandwiches. There was also a duty free store. And that was it. I suspect this will get better in the future as Azul increases traffic, but as of Fall 2018 it was lacking.
+
+### 6. RIOgaleão
+Galeao is the primary international airport in Rio de Janeiro, so it handles a lot of international and domestic traffic each year. There wasn't really anything special about this airport. It reminded me of most other airports I've been to in Brazil, particularly Guarulhos. Galeao is a big airport that could use a renovation. It requires walking long distances, as the only transportation was moving walkways.
 
 ### 5. São Paulo Guarulhos
 Now it gets more difficult to separate the remaining airports. I think São Paulo Guarulhos deserves this spot. The international terminal is super nice here. It looks like it was renovated recently and has nice restaurants and restrooms. This airport loses points for transportation between terminals. There is a lot of walking involved when going from international to domestic or vice versa. It took me over 30 minutes of walking at a brisk pace to get between the two. Also the domestic terminal could use an upgrade. It's nowhere near as nice as Terminal 3. But overall it's a pretty good airport.

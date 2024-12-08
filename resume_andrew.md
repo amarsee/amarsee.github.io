@@ -10,7 +10,6 @@ Andrew Marsee
 -------------------           ----------------------------
 * Location: Nashville, TN
 * Email: andrew.marsee@andrewmarsee.com
-* Twitter: @andrew_marsee
 
 -------------------          ----------------------------
 
